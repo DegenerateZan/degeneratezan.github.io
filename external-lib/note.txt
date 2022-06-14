@@ -1,0 +1,3 @@
+i know some of this, is arent used but i dont know, i just put it for my own habit (copium)
+
+cannot use bootstrap locally because i cannot use custom css and have to use CDN instead
